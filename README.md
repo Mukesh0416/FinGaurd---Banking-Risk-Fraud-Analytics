@@ -1,5 +1,5 @@
 
-# Banking Risk & Fraud Analytics
+# Banking Risk & Transaction Analytics
 
 ## Bank Transaction Fraud Risk Analysis
 
